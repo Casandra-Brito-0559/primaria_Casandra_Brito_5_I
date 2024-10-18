@@ -1,1 +1,1 @@
-console.log("Holaa primaria");
+console.log("Hola primaria");
